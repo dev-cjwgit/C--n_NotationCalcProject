@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "진법계산기", "진법계산기\진법계산기.csproj", "{E6ACE6FA-DF53-45BF-98B2-9BCC9AE89498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6ACE6FA-DF53-45BF-98B2-9BCC9AE89498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ACE6FA-DF53-45BF-98B2-9BCC9AE89498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ACE6FA-DF53-45BF-98B2-9BCC9AE89498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ACE6FA-DF53-45BF-98B2-9BCC9AE89498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2475DB9F-DDAC-4F38-A42E-C55AC31455FF}
+	EndGlobalSection
+EndGlobal
